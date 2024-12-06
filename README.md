@@ -1,12 +1,17 @@
 # SB-Monitoring-Result-Splitter
-# Created by: Mark Montances
-# Date: Dec 6, 2024
+Created by: Mark Montances
+
+Date: Dec 6, 2024
 
 
 # Excel Macro: Split Columns to Files
 
 This tool splits specified columns in an Excel sheet into separate files based on predefined logic.
-It assumes a specific spreadsheet formating to work.
+
+It assumes a specific spreadsheet formatting to work.
+
+
+
 
 
 ## Features
